@@ -9,7 +9,7 @@ public class Addition {
 	 System.out.println("Addition of two no. are "+a);
  }
 	public static void main(String[] args) {
-		
+
 
 	}
 
